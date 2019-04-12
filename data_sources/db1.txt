@@ -1,0 +1,3 @@
+id,cust_id,fname,lname,dob,download_asset_id,download_dt
+1001,'060234-23232',john,Doe,'1/1/2000'122xas1,'4/11/2019 05:22:21'
+1002,'060234-23232',John,Doe,'1/1/2000'122xas1,'4/10/2019 01:02:29'
